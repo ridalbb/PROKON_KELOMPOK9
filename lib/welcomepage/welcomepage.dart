@@ -1,7 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:aplikasi_reservasi_travel_bus/signuppage/signuppage.dart';
 
-class welcomepage extends StatelessWidget {
+class welcomepage extends StatefulWidget {
+  @override
+  State<welcomepage> createState() => _welcomepageState();
+}
+
+class _welcomepageState extends State<welcomepage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(

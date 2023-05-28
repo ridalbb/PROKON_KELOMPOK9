@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\UNIV\\0SMT 4\\PROYEK KONSULTASI\\TUBES\\aplikasi_reservasi_travel_bus\\aplikasi_reservasi_travel_bus\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "outputFile": "D:\\UNIV\\0SMT 4\\PROYEK KONSULTASI\\reservasi_travel_bus\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
             "map": [
                 {
-                    "source": "D:\\UNIV\\0SMT 4\\PROYEK KONSULTASI\\TUBES\\aplikasi_reservasi_travel_bus\\aplikasi_reservasi_travel_bus\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "source": "D:\\UNIV\\0SMT 4\\PROYEK KONSULTASI\\reservasi_travel_bus\\android\\app\\src\\main\\res\\values-night\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

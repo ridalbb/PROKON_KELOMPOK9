@@ -1,15 +1,20 @@
+import 'package:aplikasi_reservasi_travel_bus/signuppage/signuppage.dart';
 import 'package:flutter/material.dart';
-import'./welcomepage/welcomepage.dart';
 
 void main(){
   runApp(MyApp());
 }
 
-class MyApp extends StatelessWidget{
+class MyApp extends StatefulWidget{
+  @override
+  State<MyApp> createState() => _MyAppState();
+}
+
+class _MyAppState extends State<MyApp> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      home: welcomepage(),  
+      home: signuppage(),  
     );
   }
 }

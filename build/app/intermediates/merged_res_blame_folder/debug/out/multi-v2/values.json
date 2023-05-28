@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\UNIV\\0SMT 4\\PROYEK KONSULTASI\\TUBES\\aplikasi_reservasi_travel_bus\\aplikasi_reservasi_travel_bus\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "D:\\UNIV\\0SMT 4\\PROYEK KONSULTASI\\reservasi_travel_bus\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\RIDWAN\\.gradle\\caches\\transforms-3\\1fe2da8d82bfe82d60966789fea836da\\transformed\\core-1.6.0\\res\\values\\values.xml",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "D:\\UNIV\\0SMT 4\\PROYEK KONSULTASI\\TUBES\\aplikasi_reservasi_travel_bus\\aplikasi_reservasi_travel_bus\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "D:\\UNIV\\0SMT 4\\PROYEK KONSULTASI\\reservasi_travel_bus\\android\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
